@@ -5,13 +5,25 @@ Code Sharing Platform is a platform which people can submit new Codes and check 
 
 ### Examples
 Get: /code/new
-![Image text](https://github.com/Xiaochen-Hua/Simple_Code_Sharing_Platform/tree/master/img/GETNEW.png)
+
+(get new code interface which can add restrictions to it)
+
+![Alt text](img/GETNEW.png?raw=true "Create code")
 
 Post: api/code/new
-![Image text](https://github.com/Xiaochen-Hua/Simple_Code_Sharing_Platform/tree/master/img/POST.png)
+
+(post code to database and return the id of the code)
+
+![Alt text](img/POST.png?raw=true "POST code")
 
 Get: /code/{id}
-![Image text](https://github.com/Xiaochen-Hua/Simple_Code_Sharing_Platform/tree/master/img/GETID.png)
+
+(get specific code by their id)
+
+![Alt text](img/GETID.png?raw=true "get id code")
 
 Get: /code/latest
-![Image text](https://github.com/Xiaochen-Hua/Simple_Code_Sharing_Platform/tree/master/img/GETLATEST.png)
+
+(get latest codes without the restrictions and ordered from latest post to earlier post)
+
+![Alt text](img/GETLATEST.png?raw=true "get latest codes")

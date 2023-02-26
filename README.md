@@ -5,13 +5,13 @@ Code Sharing Platform is a platform which people can submit new Codes and check 
 
 ### Examples
 Get: /code/new
-![Image text](https://github.com/Xiaochen-Hua/Simple_Code_Sharing_Platform/tree/master/img/GETNEW.jpg)
+![Image text](https://github.com/Xiaochen-Hua/Simple_Code_Sharing_Platform/tree/master/img/GETNEW.png)
 
 Post: api/code/new
-![Image text](https://github.com/Xiaochen-Hua/Simple_Code_Sharing_Platform/tree/master/img/POST.jpg)
+![Image text](https://github.com/Xiaochen-Hua/Simple_Code_Sharing_Platform/tree/master/img/POST.png)
 
 Get: /code/{id}
-![Image text](https://github.com/Xiaochen-Hua/Simple_Code_Sharing_Platform/tree/master/img/GETID.jpg)
+![Image text](https://github.com/Xiaochen-Hua/Simple_Code_Sharing_Platform/tree/master/img/GETID.png)
 
 Get: /code/latest
-![Image text](https://github.com/Xiaochen-Hua/Simple_Code_Sharing_Platform/tree/master/img/GETLATEST.jpg)
+![Image text](https://github.com/Xiaochen-Hua/Simple_Code_Sharing_Platform/tree/master/img/GETLATEST.png)
